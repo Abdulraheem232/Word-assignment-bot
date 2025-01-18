@@ -26,7 +26,7 @@ pip install google-generativeai selenium pyautogui pyperclip python-dotenv
 
 ## **Environment Variables (.env file)**
 
-The script uses a `.env` file to securely store your API keys, Microsoft login credentials, and other necessary data.
+The script uses a `.env` file to securely store your API keys of gemini which are completely free here's the link from where u can get ur free api key https://aistudio.google.com/app, Microsoft login credentials, and other necessary data.
 
 Create a `.env` file in your project directory with the following structure:
 
